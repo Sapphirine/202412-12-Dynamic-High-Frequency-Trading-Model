@@ -68,6 +68,10 @@ To install all dependencies, use:
 pip install -r requirements.txt
 ```
 
+## Contributors
+- **Honghao Huang (hh3042)**
+- **Yining Gan (yg2960)**
+
 ## Notes
 - Ensure Apache Airflow is installed and properly configured.
 - The `portfolio_dashboard.html` file provides an example of portfolio insights.
