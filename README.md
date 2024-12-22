@@ -8,21 +8,21 @@ This project implements a dynamic high-frequency trading model using GRU (Gated 
 202412-12-Dynamic-High-Frequency-Trading-Model/
 │
 ├── dags/                          
-│   ├── project_dag.py             # Airflow DAG script
+│   ├── project_dag.py                 # Airflow DAG script
 │
 ├── notebooks/                     
-│   ├── project_gru.ipynb          # GRU model generation notebook
+│   ├── project_gru.ipynb              # GRU model generation notebook
 │
 ├── output/                        
 │   ├── data/                      
-│   │   ├── portfolio_values.csv   # Example portfolio values data
-│   │   ├── portfolio_positions.csv # Example portfolio positions data
+│   │   ├── portfolio_values.csv       # Example portfolio values data
+│   │   ├── portfolio_positions.csv    # Example portfolio positions data
 │   │
 │   ├── html/                      
-│   │   ├── portfolio_dashboard.html # Example portfolio dashboard visualization
+│   │   ├── portfolio_dashboard.html   # Example portfolio dashboard visualization
 │   │
 │   ├── model/                    
-│       ├── gru.pth                # Trained GRU model file
+│       ├── gru.pth                    # Trained GRU model file
 │                 
 ├── README.md                      
 └── requirements.txt               
