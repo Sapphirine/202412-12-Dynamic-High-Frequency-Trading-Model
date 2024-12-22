@@ -46,6 +46,7 @@ This project implements a dynamic high-frequency trading model using GRU (Gated 
 - **Portfolio Values**: Example data stored in `output/data/portfolio_values.csv`.
 - **Portfolio Positions**: Example details stored in `output/data/portfolio_positions.csv`.
 - **Dashboard**: Example visualization in `output/html/portfolio_dashboard.html`.
+  - **Live Demo**: [Portfolio Dashboard](http://34.133.104.212/dags/portfolio_dashboard.html)
 - **Trained Model**: The trained GRU model is saved as `output/models/gru.pth`.
 
 ## Dependencies
