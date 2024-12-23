@@ -49,6 +49,10 @@ This project implements a dynamic high-frequency trading model using GRU (Gated 
   - **Live Demo**: [Portfolio Dashboard](http://34.133.104.212/dags/portfolio_dashboard.html)
 - **Trained Model**: The trained GRU model is saved as `output/models/gru.pth`.
 
+## Video Overview
+For a detailed walkthrough of the project, watch the video:
+[Project Video Overview](https://youtu.be/Zinym1KR7uw)
+
 ## Dependencies
 The project requires the following Python libraries (install only these, as others are part of Python's standard library):
 - airflow
